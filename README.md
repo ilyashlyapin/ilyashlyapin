@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ilyashlyapin
-- 👀 I’m interested in selfdevelopment as fullstack testing lead
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: ilya.shlyapin@gmail.com
 
