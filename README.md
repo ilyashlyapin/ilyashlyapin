@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilyashlyapin
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Appium
 - 📫 How to reach me: ilya.shlyapin@gmail.com
 
 <!---
