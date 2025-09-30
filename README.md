@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilyashlyapin
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m currently learning ML
 - 📫 How to reach me: ilya.shlyapin@gmail.com
 
 <!---
